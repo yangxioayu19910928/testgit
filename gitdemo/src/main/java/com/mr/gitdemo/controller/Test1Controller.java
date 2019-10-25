@@ -5,6 +5,7 @@ package com.mr.gitdemo.controller;
  */
 public class Test1Controller {
     public static void main(String[] args) {
+        System.out.println(1111111);
         System.out.println(321);
     }
 }
