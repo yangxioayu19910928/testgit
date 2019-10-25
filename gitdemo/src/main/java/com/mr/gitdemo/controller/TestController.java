@@ -8,6 +8,7 @@ public class TestController {
 
     @GetMapping("/testReq")
     public String testReq(){
+        System.out.println(123123);
         return "successful";
     }
 
